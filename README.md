@@ -44,6 +44,7 @@ Follow these simple steps to install the required dependencies and run the proje
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/tashfiqonbir/bom
+
 cd Bom
 ```
 
